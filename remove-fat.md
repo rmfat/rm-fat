@@ -9,7 +9,6 @@
 | :eight:           | 8 mins abs workout    |
 | :muscle:          | dumbbell              |
 | :swimmer:         | swimming              |
-| :ok_hand:         | commited to finish    |
 
 
 ## Year 2017
