@@ -20,7 +20,7 @@
 |-----------|---------------|---------------|---------------|---------------|---------------|
 | 2017-7-11 | :up: x 60     | :up: x 50     | :muscle: x 125|               | :eight: x 3 + :up: x 200 :trophy:|
 | 2017-7-15 | :ok_hand:     | :ok_hand:     | :ok_hand:     | :ok_hand:     | :eight: x 3 + :arrow_double_up: x 40 |
-| 2017-7-16 | :runner: x 5k :trophy: |      |               |               |                                   |
+| 2017-7-16 | :runner: x 5k :trophy: |      |               |               | :up: x 50                        |
 
 
 ### Notes
