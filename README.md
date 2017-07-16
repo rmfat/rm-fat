@@ -2,15 +2,17 @@
 
 | Dat                       | Martin | Junhong | Kejia | Chenhe |Richard | 
 |---------------------------|--------|--------|--------|--------|--------|
-| 2017-7-15                 |        |        |        |        |        |
+| 2017-7-15                 |        |        |        |        | :eight: X 3 +     :arrow_double_up: X 40   |
 
 ### Notes
 
-*If you feel the need to say more, do so here.*
+
 
 ### Key
 
 | Symbol| Meaning                |
 |-------|------------------------|
 | :up:  | push up               |
-:Weightlifting:
+| :arrow_double_up:  | pull up               |
+| :runner: | running |
+| :eight: | 8 mins abs workout | 
