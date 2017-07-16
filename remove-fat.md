@@ -19,7 +19,7 @@
 | Date       | Martin        | Junhong       | Kejia         | Chen He       |Richard        |
 |-----------|---------------|---------------|---------------|---------------|---------------|
 | 2017-7-11 | :up: x 60     | :up: x 50     | :muscle: x 125|               | :eight: x 3 + :up: x 200 :trophy:|
-| 2017-7-16 | :runner: x 5k :trophy: |      |               |               | :up: x 50                        |
+| 2017-7-16 | :runner: x 5k :trophy: |      | :eight: x 1   |               | :up: x 50                        |
 
 
 ### Notes
