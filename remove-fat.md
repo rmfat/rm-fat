@@ -3,6 +3,7 @@
 | Symbol            | Meaning               |
 |-------------------|-----------------------|
 | :ok_hand:         | commited to finish    |
+| :trophy:          | leading the day of activity |
 | :up:              | push up               |
 | :arrow_double_up: | pull up               |
 | :runner:          | running               |
