@@ -12,7 +12,7 @@
 
 ### July 2017
 
-| Dat                       | Martin | Junhong | Kejia | Chenhe |Richard | 
+| Dat                       | Martin | Junhong | Kejia | Chen He |Richard | 
 |---------------------------|--------|--------|--------|--------|--------|
 | 2017-7-15                 |        |        |        |        | :eight: X 3 +     :arrow_double_up: X 40   |
 
