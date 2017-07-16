@@ -14,7 +14,7 @@
 
 | Dat       | Martin        | Junhong       | Kejia         | Chen He       |Richard        | 
 |-----------|---------------|---------------|---------------|---------------|---------------|
-| 2017-7-15 |               |               |               |               | :eight:x 3 + :arrow_double_up:x 40 |
+| 2017-7-15 |               |               |               |               | :eight: x 3 + :arrow_double_up: x 40 |
 
 ### Notes
 
