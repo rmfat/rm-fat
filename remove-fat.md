@@ -1,4 +1,4 @@
-### Key
+### Legend
 
 | Symbol            | Meaning               |
 |-------------------|-----------------------|
@@ -17,7 +17,7 @@
 
 | Dat       | Martin        | Junhong       | Kejia         | Chen He       |Richard        |
 |-----------|---------------|---------------|---------------|---------------|---------------|
-| 2017-7-11 | :up: x 60     | :up: x 50     | :muscle: x 125| ?             | :eight: x 3 + :up: x 200 |
+| 2017-7-11 | :up: x 60     | :up: x 50     | :muscle: x 125|             | :eight: x 3 + :up: x 200 |
 | 2017-7-15 | :ok_hand:     | :ok_hand:     | :ok_hand:     | :ok_hand:     | :eight: x 3 + :arrow_double_up: x 40 |
 
 ### Notes
