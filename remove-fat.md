@@ -10,6 +10,7 @@
 | :eight:           | 8 mins abs workout    |
 | :muscle:          | dumbbell              |
 | :swimmer:         | swimming              |
+| :european_castle:         | Activities in Gym... <br> with links for detail if necessary|
 
 
 ## Year 2017
