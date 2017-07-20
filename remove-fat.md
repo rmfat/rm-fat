@@ -26,7 +26,7 @@
 | 2017-7-17 | :eight: x 1 <br> :up: x 50 <br> :arrow_down: x 50  | :up: x 60    |  :up: x 45 <br> :rowboat: x 45 <br> :muscle: x 100  |  :trophy: <br> :european_castle: [40+40+40+40](https://github.com/rmfat/rm-fat/blob/master/notes/chenhe/note-2017-7-16.md)      | :runner: x 10k  |
 | 2017-7-18 | :eight: x 1 <br> :up: x 50 <br> :arrow_down: x 50 | :up: x 100     |     |               | :arrow_double_up: x 30 |
 | 2017-7-19 | | :up: x 100     |     |               | :eight: x 2 |
-| 2017-7-19 | | :trophy:     |     |  :eight: x 0.5 <br> :runner: x 2k             | :eight: x 2 |
+| 2017-7-19 | | :trophy:     |     |  :eight: x 0.5 <br> :runner: x 2k             |  |
 
 
 ### Notes
