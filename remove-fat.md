@@ -14,6 +14,7 @@
 | :arrow_down:         | squat |
 | :rowboat:         | boating gestures <br> to train the back muscle |
 | :seven:         | 7 mins challenge |
+| :mount_fuji:         | climbing mountain <br> recorded in hours |
 
 
 ## Year 2017
@@ -28,6 +29,7 @@
 | 2017-7-18 | :eight: x 1 <br> :up: x 50 <br> :arrow_down: x 50 | :up: x 100     |     |               | :arrow_double_up: x 30 |
 | 2017-7-19 | | :up: x 100     |     |               | :eight: x 2 |
 | 2017-7-20 | :seven: x 1  | :trophy: <br> :up: x 100    |  :eight: x 1   |  :eight: x 0.5 <br> :runner: x 2k             | :up: x 60 |
+| 2017-7-23 | :swimmer: x 300m  |  :mount_fuji: x 2h    |     |  :eight: x 0.5 <br> :runner: x 2k             | :up: x 50 |
 
 
 ### Notes
