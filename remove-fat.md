@@ -31,7 +31,7 @@
 | 2017-7-19 | | :up: x 100     |     |               | :eight: x 2 |
 | 2017-7-20 | :seven: x 1  | :trophy: <br> :up: x 100    |  :eight: x 1   |  :eight: x 0.5 <br> :runner: x 2k             | :up: x 60 |
 | 2017-7-22 | :swimmer: x 300m  |  :mount_fuji: x 2h    | :swimmer: x 1k    |  :eight: x 0.5 <br> :runner: x 2k             | :up: x 50 |
-| 2017-7-23 | :feet:  \>15k |    |    |         | |
+| 2017-7-23 | :feet:  \>15k |    |    |  :eight: x 0.5 <br> :up: x 40 <br> :arrow_double_up: x 20        | |
 
 
 ### Notes
