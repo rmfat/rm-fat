@@ -34,6 +34,7 @@
 | 2017-7-23 | :feet:  \>15k |    |    |  :eight: x 0.5 <br> :up: x 40 <br> :arrow_double_up: x 20        | |
 | 2017-7-25 | :up: x 150 <br> :arrow_down: x 60  | :up: x 120   |    |   | :eight: x 2 |
 | 2017-7-26 |  | :up: x 120   | :muscle: x 180   |   | |
+| 2017-7-27 |  | :up: x 120   |   |   | |
 | 2017-7-28 |  |   |    |   |  :eight: x 3.5 |
 
 
