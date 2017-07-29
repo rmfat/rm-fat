@@ -1,25 +1,3 @@
-### Legend
-
-| Symbol            | Meaning               |
-|-------------------|-----------------------|
-| :ok_hand:         | commited to finish    |
-| :trophy:          | leading the day of activity <br> by uploading pictures |
-| :up:              | push up               |
-| :arrow_double_up: | pull up               |
-| :runner:          | running               |
-| :eight:           | 8 mins abs workout    |
-| :muscle:          | dumbbell              |
-| :swimmer:         | swimming              |
-| :european_castle:         | activities in Gym... <br> with links for detail if necessary|
-| :arrow_down:         | squat |
-| :rowboat:         | boating gestures <br> to train the back muscle |
-| :seven:         | 7 mins challenge |
-| :mount_fuji:         | climbing mountain <br> recorded in hours |
-| :feet:         | walking <br> recorded in steps/hours |
-
-
-
-## Year 2017
 
 ### July 2017
 
@@ -38,10 +16,4 @@
 | 2017-7-27 | :up: x 50 | :up: x 120   |   |   | |
 | 2017-7-28 | :eight: x 1 |   |    |    :eight: x 1   |  :eight: x 3.5 |
 | 2017-7-29 |     |   |    | |  :up: x 200 |
-
-
-
-### Notes
-
-Beijing time.
 

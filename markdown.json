@@ -1,0 +1,4 @@
+{
+    "build" : "remove-fat.md",
+    "files" : [ "content.md"]
+}
