@@ -35,7 +35,8 @@
 | 2017-7-25 | :up: x 150 <br> :arrow_down: x 60  | :up: x 120   |    |   | :eight: x 2 |
 | 2017-7-26 |  | :up: x 120   | :muscle: x 180   |   | |
 | 2017-7-27 | :up: x 50 | :up: x 120   |   |   | |
-| 2017-7-28 | :eight: x 1  |   |    |   |  :eight: x 3.5 |
+| 2017-7-28 | :eight: x 1  |   |    | :eight: x 1   |  :eight: x 3.5 |
+| 2017-7-29 |              |   |    |               |  :up: x 200 |
 
 
 ### Notes
