@@ -16,5 +16,5 @@
 | 2017-7-27 | :up: x 50 | :up: x 120   |   |   | |
 | 2017-7-28 | :eight: x 1 |   |    |    :eight: x 1   |  :eight: x 3.5 |
 | 2017-7-29 |     |   |    | |  :up: x 200 |
-| 2017-7-30 | :sunny: :golf: x 1h | :up: x 100  |    | |  [:swimmer: x 800](https://github.com/rmfat/rm-fat/blob/master/notes/richard/note-2017-7-30.md) |
+| 2017-7-30 | [:sunny: :golf: x 1h](https://github.com/rmfat/rm-fat/blob/master/notes/martin/note-2017-7-30.md) | :up: x 100  |    | |  [:swimmer: x 800](https://github.com/rmfat/rm-fat/blob/master/notes/richard/note-2017-7-30.md) |
 
