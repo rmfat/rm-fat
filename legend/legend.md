@@ -9,5 +9,5 @@
 | :arrow_down:      | squat | :rowboat:         | boating gestures <br> to train the back muscle |
 | :seven:           | 7 mins challenge | :mount_fuji:      | climbing mountain <br> recorded in hours |
 | :feet:            | walking <br> recorded in steps/hours | :golf: | Playing golf |
-| :sunny:            | outdoor activities <br> on sunny days |        |              |
+| :sunny:            | outdoor activities <br> on sunny days | :seat:       | sit up |
 

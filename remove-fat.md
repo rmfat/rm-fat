@@ -9,7 +9,7 @@
 | :arrow_down:      | squat | :rowboat:         | boating gestures <br> to train the back muscle |
 | :seven:           | 7 mins challenge | :mount_fuji:      | climbing mountain <br> recorded in hours |
 | :feet:            | walking <br> recorded in steps/hours | :golf: | Playing golf |
-| :sunny:            | outdoor activities <br> on sunny days |        |              |
+| :sunny:            | outdoor activities <br> on sunny days | :seat:       | sit up |
 
 
 
@@ -34,6 +34,13 @@
 | 2017-7-29 |     |   |    | |  :up: x 200 |
 | 2017-7-30 | [:sunny: :golf: x 1h](https://github.com/rmfat/rm-fat/blob/master/notes/martin/note-2017-7-30.md) | :up: x 100  |    | |  [:swimmer: x 800](https://github.com/rmfat/rm-fat/blob/master/notes/richard/note-2017-7-30.md) |
 
+
+
+### August 2017
+
+| Date       | Martin        | Junhong       | Kejia         | Chen He       |Richard        |
+|-----------|---------------|---------------|---------------|---------------|---------------|
+| 2017-8-02 | :up: x 100 <br> :seat: x 100   | :up: x 120     |               |               |                                           |
 
 
 ### Notes
