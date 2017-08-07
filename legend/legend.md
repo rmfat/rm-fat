@@ -11,4 +11,5 @@
 | :feet:            | walking <br> recorded in steps/hours | :golf: | Playing golf |
 | :sunny:            | outdoor activities <br> on sunny days | :seat:       | sit up |
 | :tennis:            | badminton or tennis <br> recorded in hours | :8ball:       | 八段锦 |
+| :bike:            | biking <br> recorded in kilometers | :o:       | 其它有氧运动|
 
