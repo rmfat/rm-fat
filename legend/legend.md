@@ -10,4 +10,5 @@
 | :seven:           | 7 mins challenge | :mount_fuji:      | climbing mountain <br> recorded in hours |
 | :feet:            | walking <br> recorded in steps/hours | :golf: | Playing golf |
 | :sunny:            | outdoor activities <br> on sunny days | :seat:       | sit up |
+| :tennis:            | badminton or tennis <br> recorded in hours | :8ball:       | 八段锦 |
 
