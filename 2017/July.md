@@ -1,7 +1,7 @@
 
 ### July 2017
 
-| Date       | Martin        | Junhong       | Kejia         | Chen He       |Richard        |
+| Date       | Martin        | Junhong       | Jiake | Chen He       |Richard        |
 |-----------|---------------|---------------|---------------|---------------|---------------|
 | 2017-7-11 | :up: x 60     | :up: x 50     | :muscle: x 125|               | :trophy: <br> :eight: x 3 <br> :up: x 200 |
 | 2017-7-16 | :trophy: <br> :runner: x 5k  | :up: x 60     | :eight: x 1   | :eight: x 0.5 <br> :arrow_double_up: x 20             | :up: x 50  |
