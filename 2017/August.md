@@ -8,6 +8,6 @@
 | 2017-8-05 |               | :tennis: x 2h               |                   | :8ball: x 1 | :eight: x 1  |
 | 2017-8-07 | :up: x 60 <br> :seat: x 100 | :up: x 120 <br> :bike: x 7k  | :muscle: x 115 <br> [:o: x 20min](https://github.com/rmfat/rm-fat/blob/master/notes/jiake/note-2017-8-07.md)  | :up: x 20 <br> :arrow_double_up: x 20        |  :trophy: <br> [:swimmer: x 1k](https://github.com/rmfat/rm-fat/blob/master/notes/richard/note-2017-8-07.md)  |
 | 2017-8-08 | :up: x 80 <br> :seat: x 100 <br> :arrow_down: x 100 | :up: x 170  |  |        |  :arrow_double_up: x 50  |
-| 2017-8-10 |                                                     |             |  |        |  :swimmer: x 800m  |
-| 2017-8-11 |                                                     |             | :up: x 65 <br> [:muscle: x 135](https://github.com/rmfat/rm-fat/blob/master/notes/jiake/note-2017-8-11.md) |        |                    |
+| 2017-8-10 |                    | :mask:            |  |        |  :swimmer: x 800m  |
+| 2017-8-11 |      |  :mask:           | :up: x 65 <br> [:muscle: x 135](https://github.com/rmfat/rm-fat/blob/master/notes/jiake/note-2017-8-11.md) |        |                    |
 | 2017-8-14 |  :up: x 100 | :mask:  | :swimmer: x 600m | :runner: x 4k <br> :arrow_double_up: x 20       |  :swimmer: x 800m                  |
