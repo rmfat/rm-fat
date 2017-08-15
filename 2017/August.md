@@ -11,4 +11,4 @@
 | 2017-8-10 |                    | :mask:            |  |        |  :swimmer: x 800m  |
 | 2017-8-11 |      |  :mask:           | :up: x 65 <br> [:muscle: x 135](https://github.com/rmfat/rm-fat/blob/master/notes/jiake/note-2017-8-11.md) |        |                    |
 | 2017-8-14 |  :up: x 100 | :mask:  | :swimmer: x 600m | :runner: x 4k <br> :arrow_double_up: x 20       |  :swimmer: x 800m                  |
-| 2017-8-15 |  :runner: x 4k | :up: x 180 |                  |                                                 |  :eight: x 3 |
+| 2017-8-15 |  :runner: x 4k | :up: x 180 |                  | :eight: x 1   |  :eight: x 3 |
