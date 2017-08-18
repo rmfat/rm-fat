@@ -53,7 +53,7 @@
 | 2017-8-15 |  :runner: x 4k | :up: x 180 |                  | :eight: x 1   |  :eight: x 3 |
 | 2017-8-16 |                | :up: x 140 | :swimmer: x 1k   |               |              |
 | 2017-8-17 |                |            |                  |               | :swimmer: x 1k     |
-| 2017-8-18 |                |            |                  |               | :arrow_double_up: x 50     |
+| 2017-8-18 |    | :up: x 80  | :muscle: [60+60+60](https://github.com/rmfat/rm-fat/blob/master/notes/jiake/note-2017-8-18.md)   |               | :arrow_double_up: x 50     |
 
 
 ### Notes
