@@ -15,3 +15,4 @@
 | 2017-8-16 |                | :up: x 140 | :swimmer: x 1k   |               |              |
 | 2017-8-17 |                |            |                  |               | :swimmer: x 1k     |
 | 2017-8-18 |    | :up: x 80  | :muscle: [60+60+60](https://github.com/rmfat/rm-fat/blob/master/notes/jiake/note-2017-8-18.md)   |               | :arrow_double_up: x 50     |
+| 2017-8-21 | :golf: x 1.5h    | :up: x 40 <br> :seat: x 40  | :muscle: x 120   |               |      |
