@@ -18,4 +18,6 @@
 | 2017-8-21 | :golf: x 1.5h    | :up: x 40 <br> :seat: x 40  | :muscle: x 120   | :eight: x 1   |      |
 | 2017-8-22 | :seven: x 2 <br>  :baby_symbol: x 3m   |          |                  |               |      |
 | 2017-8-23 |   |          | :swimmer: x 1k                 |               |      |
-| 2017-8-24 | :up: x 50 | :swimmer: x 500m   |                |               |  :swimmer: x 1k      |
+| 2017-8-24 | :up: x 50 | :swimmer: x 500m   |                |               |  :swimmer: x 800m      |
+| 2017-8-26 | :up: x 200 | :up: x 200   |                |               |      |
+| 2017-8-27 |  |   |                |               |   :up: x 210   |
