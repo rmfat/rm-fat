@@ -12,7 +12,7 @@
 | :sunny:            | outdoor activities <br> on sunny days | :seat:       | sit up |
 | :tennis:            | badminton or tennis <br> recorded in hours | :8ball:       | 八段锦 |
 | :bike:            | biking <br> recorded in kilometers | :o:       | 其它有氧运动|
-| :baby_symbol:            | plunk <br> recorded in minutes|        | |
+| :baby_symbol:            | plunk <br> recorded in minutes| :arrow_up_small:  | bench press |
 
 
 
@@ -60,7 +60,7 @@
 | 2017-8-23 |   |          | :swimmer: x 1k                 |               |      |
 | 2017-8-24 | :up: x 50 | :swimmer: x 500m   |                |               |  :swimmer: x 800m      |
 | 2017-8-26 | :up: x 200 | :up: x 200   |                |               |      |
-| 2017-8-27 |  |   |                |               |   :up: x 210   |
+| 2017-8-27 |  |   |                | :arrow_up_small: x 40 <br> :up: x 40 <br> :arrow_double_up: x 20 <br> :arrow_down: x 40 <br> :runner: x 2k  |   :up: x 210   |
 
 
 ### Notes
