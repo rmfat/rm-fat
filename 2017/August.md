@@ -21,6 +21,6 @@
 | 2017-8-24 | :up: x 50 | :swimmer: x 500m   |     |    |  :swimmer: x 800m      | |
 | 2017-8-26 | :up: x 200 | :up: x 200   |     |    |      | |
 | 2017-8-27 |  |   |     | :arrow_up_small: x 40 <br> :up: x 40 <br> :arrow_double_up: x 20 <br> :arrow_down: x 40 <br> :runner: x 2k  |   :up: x 210   | |
-| 2017-8-28 |  | :seat: x 120   |     |          |    | |
-| 2017-8-29 |  | :seat: x 100   |     |          |    | |
-| 2017-8-30 |  |     |     |          | :arrow_double_up: x 40   | |
+| 2017-8-28 |  | :seat: x 120   | :mask:    |          |    | |
+| 2017-8-29 |  | :seat: x 100   | :mask:    |          |    | |
+| 2017-8-30 |  |     |  :mask:   |          | :arrow_double_up: x 40   | |
