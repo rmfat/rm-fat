@@ -23,4 +23,4 @@
 | 2017-8-27 |  |   |     | :arrow_up_small: x 40 <br> :up: x 40 <br> :arrow_double_up: x 20 <br> :arrow_down: x 40 <br> :runner: x 2k  |   :up: x 210   | |
 | 2017-8-28 |  | :seat: x 120   | :mask:    |          |    | |
 | 2017-8-29 |  | :seat: x 100   | :mask:    |          |    | |
-| 2017-8-30 |  |     |  :mask:   |          | :arrow_double_up: x 40   | |
+| 2017-8-30 | [:swimmer: x 800m](https://github.com/rmfat/rm-fat/blob/master/notes/martin/note-2017-8-30.md)  | [:swimmer: x 700m](https://github.com/rmfat/rm-fat/blob/master/notes/junhong/note-2017-8-30.md)   |  :mask:   |          | :arrow_double_up: x 40   | |
