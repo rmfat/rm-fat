@@ -67,7 +67,7 @@
 | 2017-8-31 |  |                |     |  :runner: x 2k <br> :eight: x 1        |    | |
 
 
-### August 2017
+### September 2017
 
 | Date       | Martin        | Junhong       | Jiake | Chen He       |Richard        | Xuanchuan |
 |-----------|---------------|---------------|---------------|---------------|---------------|---------------|
