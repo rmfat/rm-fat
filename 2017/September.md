@@ -10,4 +10,4 @@
 | 2017-9-08 |   |                 |  :swimmer: x 1.2k   |    |    | |
 | 2017-9-09 | :up: x 50 <br> :arrow_down: x 100  |      |   |    |    | :up: x 100 <br> :european_castle: [40](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-09.md)  |
 | 2017-9-10 | |      |   |    |  :arrow_double_up: x 50  | :up: x 120 <br> :european_castle: [60+60](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-10.md)  |
-| 2017-9-11 | |      |   |    |  :swimmer: x 800m  |   |
+| 2017-9-11 | |      |   |    | :trophy: <br> :swimmer: x 800m  |   |
