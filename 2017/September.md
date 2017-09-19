@@ -14,3 +14,5 @@
 | 2017-9-12 |  |   :seat: x 100 <br> :up: x 140   |   |    | :arrow_double_up: x 30  | :trophy: <br> :tennis: x 2h <br> :up: x 60 <br> :arrow_down: x 20 <br> :european_castle: [20+20](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-12.md)  |
 | 2017-9-14 |  | :seat: x 60 <br> :up: x 80     |   |    |   |   |
 | 2017-9-16 | :feet: x 1.5h | :handbag: x 1d   |   | :arrow_double_up: x 20 <br> :european_castle: [a+b+c+d+e](https://github.com/rmfat/rm-fat/blob/master/notes/chenhe/note-2017-9-16.md)   | :up: x 200  | :runner: x 4.5k  |
+| 2017-9-17 |   |                 |   |    |    | :up: x 80 <br> :arrow_down: x 30 <br> :seat: x 30 <br> :european_castle: [20+20](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-17.md) |
+| 2017-9-18 |   |                 |   |    |    | :up: x 80 <br> :arrow_down: x 40 <br> :seat: x 40 <br> :baby_symbol: x 3  <br> :european_castle: [20+20](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-18.md) |
