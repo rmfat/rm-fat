@@ -82,12 +82,12 @@
 | 2017-9-11 | :seat: x 100 |      |   | :arrow_double_up: x 20 <br> :arrow_up_small: x 40 <br> :eight: x 1 <br> :runner: x 1k    | :trophy: <br> :swimmer: x 800m  | :up: x 120 <br> :arrow_down: x 40 <br> :seat: x 20 <br> :european_castle: [40+40](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-11.md)  |
 | 2017-9-12 |  |   :seat: x 100 <br> :up: x 140   |   |    | :arrow_double_up: x 30  | :trophy: <br> :tennis: x 2h <br> :up: x 60 <br> :arrow_down: x 20 <br> :european_castle: [20+20](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-12.md)  |
 | 2017-9-14 |  | :seat: x 60 <br> :up: x 80     |   |    |   |   |
-| 2017-9-16 | :feet: x 1.5h | :handbag: x 1d   |   | :arrow_double_up: x 20 <br> :european_castle: [a+b+c+d+e](https://github.com/rmfat/rm-fat/blob/master/notes/chenhe/note-2017-9-16.md)   | :up: x 200  | :runner: x 4.5k  |
+| 2017-9-16 | :feet: x 1.5h | :handbag: x 1d   |   | :arrow_double_up: x 20 <br> :european_castle: [40+40+40+40+burpee](https://github.com/rmfat/rm-fat/blob/master/notes/chenhe/note-2017-9-16.md)   | :up: x 200  | :runner: x 4.5k  |
 | 2017-9-17 |   | :mount_fuji: x 4h                |   |    |    | :up: x 80 <br> :arrow_down: x 30 <br> :seat: x 30 <br> :european_castle: [20+20](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-17.md) |
 | 2017-9-18 |   |                 |   |    |    | :up: x 80 <br> :arrow_down: x 40 <br> :seat: x 40 <br> :baby_symbol: x 3  <br> :european_castle: [20+20](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-18.md) |
 | 2017-9-20 |  | :swimmer: x 800m   |     | :runner: x 4k    |  :swimmer: x 800m   | |
 | 2017-9-23 | :seven: x 2 ||||||
-| 2017-9-24 | :seven: x 1 | :up: x 80 <br> :seat: x 80|  | :runner: x 3k <br> [a+b+c+d](https://github.com/rmfat/rm-fat/blob/master/notes/chenhe/note-2017-9-24.md) | :up: x 200 | :bike: x 15k|
+| 2017-9-24 | :seven: x 1 | :up: x 80 <br> :seat: x 80|  | :runner: x 3k <br> [40+40+40+40](https://github.com/rmfat/rm-fat/blob/master/notes/chenhe/note-2017-9-24.md) | :up: x 200 | :bike: x 15k|
 
 
 ### Notes
