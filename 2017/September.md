@@ -17,3 +17,5 @@
 | 2017-9-17 |   | :mount_fuji: x 4h                |   |    |    | :up: x 80 <br> :arrow_down: x 30 <br> :seat: x 30 <br> :european_castle: [20+20](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-17.md) |
 | 2017-9-18 |   |                 |   |    |    | :up: x 80 <br> :arrow_down: x 40 <br> :seat: x 40 <br> :baby_symbol: x 3  <br> :european_castle: [20+20](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-9-18.md) |
 | 2017-9-20 |  | :swimmer: x 800m   |     | :runner: x 4k    |  :swimmer: x 800m   | |
+| 2017-9-23 | :seven: x 2 ||||||
+| 2017-9-24 | :seven: x 1 | :up: x 80 <br> :seat: x 80|  | :runner: x 3k <br> [a+b+c+d](https://github.com/rmfat/rm-fat/blob/master/notes/chenhe/note-2017-9-24.md) | :up: x 200 | :bike: x 15k|
