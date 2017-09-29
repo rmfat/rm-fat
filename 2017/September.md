@@ -19,3 +19,9 @@
 | 2017-9-20 |  | :swimmer: x 800m   |     | :runner: x 4k    |  :swimmer: x 800m   | |
 | 2017-9-23 | :seven: x 2 ||||||
 | 2017-9-24 | :seven: x 1 | :up: x 80 <br> :seat: x 80|  | :runner: x 3k <br> [40+40+40+40](https://github.com/rmfat/rm-fat/blob/master/notes/chenhe/note-2017-9-24.md) | :up: x 200 | :bike: x 15k|
+| 2017-9-25 | :seven: x 2 ||||| :baby_symbol: x 2\*2m <br> :seat: x 120|
+| 2017-9-26 | :seven: x 1 ||||||
+| 2017-9-27 | :signal_strength: x 30m <br> :seven: x 1 <br> :up: x 40 | :up: x 60 <br> :seat: x 40||| :arrow_double_up: x 60||
+| 2017-9-28 | :seven: x 1 |:bike: x 8k|||:runner: x 10k||
+
+
