@@ -108,7 +108,6 @@
 | 2017-10-09 |:runner: x 3k   |    |     | :up: x 40 <br> :arrow_double_up: x 20 <br> :runner: x 2k <br> [40+40+40](https://github.com/rmfat/rm-fat/blob/master/notes/chenhe/note-2017-10-09.md)   |    | :up: x 100 <br> :seat: x 40 <br> [40+20](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-10-09.md)  | 
 | 2017-10-10 | :runner: x 2k ||||| :tennis: x 2h|
 | 2017-10-11 |  ||||| :up: x 80 <br> :seat: x 60 <br> [120+20+20](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-10-11.md)|
-#拉绳120, 卷腹20, 俯身挺背 20
 | 2017-10-12 |  | :swimmer: x 800m <br> :bike: x 8km |||| :up: x 100 <br> :seat: x 80 <br> :arrow_down: x 40 <br> [90+20+20+90](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-10-12.md)|
 | 2017-10-15 |  | :up: x 60 <br> :seat: x 60|| :runner: x 4k | :arrow_double_up: x 60| |
 | 2017-10-17 |  | :swimmer: x 800m <br> :bike: x 8km ||  || |
