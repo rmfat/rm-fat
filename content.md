@@ -5,5 +5,6 @@
 #include "2017/August.md"
 #include "2017/September.md"
 #include "2017/October.md"
+#include "2017/November.md"
 
 #include "miscellaneous/tail.md"
