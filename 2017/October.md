@@ -16,8 +16,9 @@
 | 2017-10-17 |  | :swimmer: x 800m <br> :bike: x 8km ||  || |
 | 2017-10-18 |  | :bike: x 8km ||  || |
 | 2017-10-20 |  |  ||  | :arrow_down: x 300| |
-| 2017-10-22 |  |  ||  |   :up: x 100 <br> :seat: x 60 <br> :arrow_down: x 60 <br> [40+20+40+60](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-10-22.md)|
-| 2017-10-22 |  |  ||  |  | 
+| 2017-10-23 |  |  ||  | |  :up: x 100 <br> :seat: x 60 <br> :arrow_down: x 60 <br> [40+20+40+60](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-10-22.md)|
+| 2017-10-24 |  | :swimmer: x 800m <br> :bike: x 8k  ||  |  | |
+| 2017-10-25 | :up: x 100 <br> :arrow_down: x 100 <br> [100](https://github.com/rmfat/rm-fat/blob/master/notes/martin/note-2017-10-25.md) |   | | :runner: x 4k  | |  :up: x 50 <br> :seat: x 60 | 
 
 
 
