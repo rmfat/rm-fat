@@ -116,11 +116,8 @@
 | 2017-10-23 |  |  ||  | |  :up: x 100 <br> :seat: x 60 <br> :arrow_down: x 60 <br> [40+20+40+60](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-10-22.md)|
 | 2017-10-24 |  | :swimmer: x 800m <br> :bike: x 8k  ||  |  | |
 | 2017-10-25 | :up: x 100 <br> :arrow_down: x 100 <br> [100](https://github.com/rmfat/rm-fat/blob/master/notes/martin/note-2017-10-25.md) |   | | :runner: x 4k  | |  :up: x 50 <br> :seat: x 60 | 
-| 2017-10-28 |  | ||  |  | :mount_fuji: x
-[?hours](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-10-28.md)
-<br> :up: x 100 <br> :seat: x 80 <br> [40](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-10-28.md) |
+| 2017-10-28 |  | ||  |  | :mount_fuji: x [?hours](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-10-28.md) <br> :up: x 100 <br> :seat: x 80 <br> [40](https://github.com/rmfat/rm-fat/blob/master/notes/xuanchuan/note-2017-10-28.md) |
 | 2017-10-29 | :runner: x 2k <br> :arrow_double_up: x 45 <br> [50+50+60+30+80+50](https://github.com/rmfat/rm-fat/blob/master/notes/martin/note-2017-10-29.md) | :up: x 100 <br> :seat: x 100  ||  |  | :runner: x 3.7k <br> :up: x 40 |
-
 | 2017-10-30 ||||||:runner: x 9k|
 | 2017-10-31 ||||||:runner: x 3.5k|
 
