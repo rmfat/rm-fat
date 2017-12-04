@@ -17,6 +17,6 @@
 | 2017-11-22| | :up: x 140  || :runner: x 4k <br> :arrwo_double_up: x 20 <br> :up: x 100 <br> [40](https://github.com/rmfat/rm-fat/blob/master/notes/chenhe/note-2017-11-22.md)   | :arrow_down: x 250 | |
 | 2017-11-23|  | :up: x 150  ||| | |
 | 2017-11-26|  |   ||| :eight: x 2 | :runner: x 5k |
-| 2017-11-27|  | :up: x 150   ||| :up: x 200  |  |
+| 2017-11-27|  | :up: x 150   |||   |  |
 | 2017-11-28|  |  :up: x 150  ||| :up: x 200  |  |
 | 2017-11-30|  | :up: x 150  |||  | :runner: x 12k |
