@@ -173,6 +173,7 @@
 | 2017-12-25|  |    ||| :eight: x 2   | |
 | 2017-12-26|  |    || :eight: x 1 <br> :arrow_double_up: x 20 | :eight: x 2   | |
 | 2017-12-27|  | :up: x 200   ||| :eight: x 2 <br> :arrow_double_up: x 50  | |
+| 2017-12-28|  :up: x 200 |   ||| :eight: x 2   | |
 
 
 ### Notes
