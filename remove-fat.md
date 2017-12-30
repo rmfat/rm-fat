@@ -14,7 +14,7 @@
 | :bike:            | biking <br> recorded in kilometers | :o:       | 其它有氧运动|
 | :baby_symbol:            | plunk <br> recorded in minutes| :arrow_up_small:  | bench press |
 | :handbag:            | shopping with gf... <br> recorded in DAYs :D | :signal_strength: | Stairclimbers <br> in minutes|
-
+| :o2: | cardio |||
 
 
 ## Year 2017
