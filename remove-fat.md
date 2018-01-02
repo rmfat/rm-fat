@@ -174,6 +174,8 @@
 | 2017-12-27|  | :up: x 200   ||| :eight: x 2 <br> :arrow_double_up: x 50  | |
 | 2017-12-28|  :up: x 200 |   ||| :eight: x 2   | |
 | 2017-12-29|  :o2: x 0.5h <br> [100](https://github.com/rmfat/rm-fat/blob/master/notes/martin/note-2017-12-29.md) |   ||| :eight: x 2   | |
+| 2017-12-30|  |   ||| :eight: x 2   | |
+| 2017-12-31|  |   ||| :eight: x 2   | |
 
 
 ### Notes
