@@ -14,6 +14,7 @@
 | :bike:            | biking <br> recorded in kilometers | :o2:       | cardio |
 | :baby_symbol:            | plunk <br> recorded in minutes| :arrow_up_small:  | bench press |
 | :handbag:            | shopping with gf... <br> recorded in DAYs :D | :signal_strength: | Stairclimbers <br> in minutes|
+| :whale2: | crunch |          | |
 
 
 ## Year 2017
@@ -184,6 +185,8 @@
 |-----------|---------------|---------------|---------------|---------------|---------------|---------------|
 | 2018-1-1| :up: x 100  |  :up: x 150  ||| :eight: x 2 | |
 | 2018-1-2|   |    ||| :eight: x 2 | |
+| 2018-1-3| :whale2: x 100 <br> :baby_symbol: x 3.5m  | :up: x 150   ||| :eight: x 2 | |
+| 2018-1-4|   |   ||| :eight: x 2 | |
 
 
 ### Notes

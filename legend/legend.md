@@ -14,3 +14,4 @@
 | :bike:            | biking <br> recorded in kilometers | :o2:       | cardio |
 | :baby_symbol:            | plunk <br> recorded in minutes| :arrow_up_small:  | bench press |
 | :handbag:            | shopping with gf... <br> recorded in DAYs :D | :signal_strength: | Stairclimbers <br> in minutes|
+| :whale2: | crunch |          | |
