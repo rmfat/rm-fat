@@ -8,4 +8,4 @@
 | 2018-1-3| :whale2: x 100 <br> :baby_symbol: x 3.5m  | :up: x 150   ||| :eight: x 2 | |
 | 2018-1-4|   |   ||| :eight: x 2 | :up: x 20 |
 | 2018-1-5|   |   ||| :eight: x 2 |  |
-| 2018-1-6| :whale2: x 80 <br> :up: x 120   |   |||  :eight: x 2 ||
+| 2018-1-6| :whale2: x 80 <br> :up: x 120   |   |||  :runner: x 5k ||
