@@ -191,6 +191,14 @@
 | 2018-1-6| :whale2: x 80 <br> :up: x 120   |   |||  :runner: x 5k ||
 | 2018-1-7|   |   || :eight: x 1 <br> :runner: x 2k| :eight: x 2 |  |
 | 2018-1-8| :european_castle: x 1.5h  |   ||| :eight: x 2 |  |
+| 2018-1-10|   |   ||| :up: x 200 |  |
+| 2018-1-11|   |   ||| :eight: x 2 |  |
+| 2018-1-12|   |   ||| :eight: x 1 <br> :tennis: x 1.5h |  |
+| 2018-1-13|   |   ||| :runner: x 10k |  |
+| 2018-1-14|   |   ||| :eight: x 2 |  |
+| 2018-1-15|   |   ||| :eight: x 2 |  |
+| 2018-1-16|   |   ||| :eight: x 2 |  |
+| 2018-1-17|   |   ||| :eight: x 2 |  |
 
 
 ### Notes
