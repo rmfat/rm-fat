@@ -205,6 +205,9 @@
 | 2018-1-22|   | :up: x 150  ||| :eight: x 2 |  |
 | 2018-1-23|   |   ||| :arrow_double_up: x 50 |  |
 | 2018-1-24| :bike: x 0.5h   |   ||| :eight: x 2 |  |
+| 2018-1-26|   |  ||| :up: x 50 |  |
+| 2018-1-27|   |  ||| :eight: x 2 |  |
+| 2018-1-28|   |  || :runner: x 2k <br> :eight: x 1| :runner: x 10k |  |
 
 
 ### Notes
