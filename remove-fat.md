@@ -208,6 +208,7 @@
 | 2018-1-26|   |  ||| :up: x 50 |  |
 | 2018-1-27|   |  ||| :eight: x 2 |  |
 | 2018-1-28|   |  || :runner: x 2k <br> :eight: x 1| :runner: x 10k |  |
+| 2018-1-29|   |  || :runner: x 4k <br> :up: x 50 <br> :arrow_double_up: x 20 | :eight: x 2 |  |
 
 
 ### Notes
