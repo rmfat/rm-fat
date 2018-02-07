@@ -209,6 +209,21 @@
 | 2018-1-27|   |  ||| :eight: x 2 |  |
 | 2018-1-28|   |  || :runner: x 2k <br> :eight: x 1| :runner: x 10k |  |
 | 2018-1-29|   |  || :runner: x 4k <br> :up: x 50 <br> :arrow_double_up: x 20 | :eight: x 2 |  |
+| 2018-1-30|   |  ||| :eight: x 1 |  |
+| 2018-1-31|   |  ||| :eight: x 2 |  |
+
+
+### February 2018
+
+| Date       | Martin        | Junhong       | Jiake | Chen He       |Richard        | Xuanchuan |
+|-----------|---------------|---------------|---------------|---------------|---------------|---------------|
+| 2018-2-1|   |   ||| :up: x 200 | |
+| 2018-2-2|   |   ||:eight: x 1 | :eight: x 2 | |
+| 2018-2-3|   |   || | :eight: x 2 | |
+| 2018-2-4| :up: x 100  |   || | :runner: x 10k | |
+| 2018-2-5| :swimmer: x 45min  |   || |  | |
+| 2018-2-6|   |   || | :arrow_double_up: x 50  | |
+
 
 
 ### Notes
