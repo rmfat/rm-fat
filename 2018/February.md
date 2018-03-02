@@ -23,4 +23,6 @@
 | 2018-2-23|   | :up: x 180  || | :tennis: x 1h | |
 | 2018-2-24|   | :up: x 150  || | :eight: x 2 | |
 | 2018-2-25|   | :up: x 150  || | :up: x 200 | |
-| 2018-2-26| :whale2: x 100 <br> :arrow_down: x 100  | :up: x 150  || |  | |
+| 2018-2-26| :whale2: x 100 <br> :arrow_down: x 100  | :up: x 150  || |:baby_symbol: x 10   | |
+| 2018-2-27|   | :up: x 150  || | | |
+| 2018-2-28|  :baby_symbol: x 10  |   || | :arrow_double_up: x 50 | |
