@@ -242,6 +242,13 @@
 | 2018-2-28|  :baby_symbol: x 10  |   || | :arrow_double_up: x 50 | |
 
 
+### March 2018
+
+| Date       | Martin        | Junhong       | Jiake | Chen He       |Richard        | Xuanchuan |
+|-----------|---------------|---------------|---------------|---------------|---------------|---------------|
+| 2018-3-1|   | :up: x 150  ||| :eight: x 2 | |
+
+
 
 ### Notes
 
