@@ -262,7 +262,7 @@
 | 2018-3-15|   |   |||  :eight: x 2| |
 | 2018-3-16|   | :up: x 150   |||  :tennis: x 1h| |
 | 2018-3-18|   | :up: x 150   |||  :eight: x 2| |
-| 2018-3-19|   | :up: x 150   |||  :arrow_double_up: x 500 <br> :peach: x 1| |
+| 2018-3-19|   | :up: x 150   |||  :arrow_double_up: x 50 <br> :peach: x 1| |
 
 
 
