@@ -21,4 +21,8 @@
 | 2018-3-19|   | :up: x 150   |||  :arrow_double_up: x 50 <br> :peach: x 1| |
 | 2018-3-20|   | :up: x 150   |||  :fuelpump: x 1| |
 | 2018-3-21|  :up: x 150 <br> :eight: x 1 | :baby_symbol: x 2 <br> :up: x 150   |||  | |
+| 2018-3-22|   | :up: x 90 <br> :baby_symbol: x 3m   |||  :up: x 200 | |
+| 2018-3-23|   |   |||  :tennis: x 1h | |
+| 2018-3-24|   | :mount_fuji: x xh  |||   | :up: x 60 <br> :seat: x 40 <br> :whale2: x 20 |
+| 2018-3-25|   | :up: x 150   ||| :arrow_down: x 150  | |
 
