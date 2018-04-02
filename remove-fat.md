@@ -277,6 +277,13 @@
 
 
 
+### April 2018
+
+| Date       | Martin        | Junhong       | Jiake | Chen He       |Richard        | Xuanchuan |
+|-----------|---------------|---------------|---------------|---------------|---------------|---------------|
+| 2018-4-1| :runner: x 3k <br> :european_castle: x 1h  | :up: x 100 <br> :seat: x 100 ||:eight: x 1 <br> :arrow_double_up: x 20 |  | :up: x 40 <br> :seat: x 40 |
+
+
 
 ### Notes
 
