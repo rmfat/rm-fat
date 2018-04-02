@@ -26,4 +26,7 @@
 | 2018-3-24|   | :mount_fuji: x 3h  |||   | :up: x 60 <br> :seat: x 40 <br> :whale2: x 20 |
 | 2018-3-25|   | :up: x 150   ||| :arrow_down: x 150  | |
 | 2018-3-26|   | :up: x 150   |||  | :up: x 80 <br> :seat: x 60 <br> :fishing_pole_and_fish: x 80 |
+| 2018-3-27|   |   ||| :arrow_double_up: x 70  | |
+| 2018-3-29|   | :up: x 150  ||| :eight: x 2  | |
+| 2018-3-31|   |   ||| :arrow_down: x 100  | |
 
