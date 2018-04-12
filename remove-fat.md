@@ -287,6 +287,9 @@
 | 2018-4-4| | |   |:peach: x 1 ||
 | 2018-4-5| | |   |:arrow_down: x 100 ||
 | 2018-4-6| | :mount_fuji: x 5h |   | ||
+| 2018-4-8| |  |   | :runner: x 10k ||
+| 2018-4-9| |  | :dog: x 2 <br> :runner: x 3k   | :peach: x 1 ||
+| 2018-4-11| |  |   | :peach: x 1 ||
 
 
 
