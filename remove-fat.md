@@ -291,6 +291,12 @@
 | 2018-4-8| |  |   | :runner: x 10k ||
 | 2018-4-9| |  | :dog: x 2 <br> :runner: x 3k   | :peach: x 1 ||
 | 2018-4-11| |  |   | :peach: x 1 ||
+| 2018-4-12| [:runner: x 3h](https://github.com/rmfat/rm-fat/blob/master/notes/martin/note-2018-4-12.md) | :up: x 150  |   |  ||
+| 2018-4-13| :up: x 100 |  |   | :tennis: x 45m  ||
+| 2018-4-15|  |  |   | :arrow_double_up: x 50  ||
+| 2018-4-16|  |  |   | :peach: x 1  ||
+| 2018-4-17|  |  | :eight: x 1 <br> :runner: x 4k  |   ||
+
 
 
 
