@@ -20,5 +20,6 @@
 | 2018-4-17|  |  | :eight: x 1 <br> :runner: x 4k  |   ||
 | 2018-4-18|  | :up: x 150 <br> :swimmer: x 1k |  | :peach: x 1  ||
 | 2018-4-19|  | |  | :swimmer: x 600m  ||
-| 2018-4-21|  :eight: x 1 | |  |   ||
+| 2018-4-21|  :eight: x 1 | :up: x 150 |  |   ||
+| 2018-4-22|  :runner: x 3k <br> :european_castle: x 1h | :up: x 150 |  | :up: x 200   ||
 
