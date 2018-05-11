@@ -28,4 +28,5 @@
 | 2018-4-26|   |  :up: x 120 <br> :arrow_down: x 60  | | :swimmer: x 700m  ||
 | 2018-4-27|   |    | | :tennis: x 1h <br> :arrow_down: x 50 ||
 | 2018-4-29|   |    | | :eight_spoked_asterisk: x 1 ||
+| 2018-4-30|   |    | | :peach: x 1 ||
 
