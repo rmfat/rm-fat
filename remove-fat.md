@@ -325,7 +325,7 @@
 | 2018-5-16|   | :swimmer: x 1k   | | | |
 | 2018-5-17|   |    | | :pray: x 45m | |
 | 2018-5-18|   |    | | :eight_spoked_asterisk: x 1 | |
-| 2018-5-20|   |    | | [:eight_spoked_asterisk:](https://github.com/rmfat/rm-fat/blob/master/notes/richard/note-2018-5-20.md) <br> :runner: x 3k | |
+| 2018-5-20|   |    | | [:european_castle:](https://github.com/rmfat/rm-fat/blob/master/notes/richard/note-2018-5-20.md) <br> :runner: x 3k | |
 
 
 
