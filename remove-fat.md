@@ -326,9 +326,32 @@
 | 2018-5-17|   |    | | :pray: x 45m | |
 | 2018-5-18|   |    | | :eight_spoked_asterisk: x 1 | |
 | 2018-5-20|   |    | | [:european_castle:](https://github.com/rmfat/rm-fat/blob/master/notes/richard/note-2018-5-20.md) <br> :runner: x 3k | |
+| 2018-5-23|   | :bike: x 8k   | | :arrow_down: x 100 | |
+| 2018-5-25|   |   | | :eight_spoked_asterisk: x 1 | |
+| 2018-5-26|   |   | | :up: x 200 | |
+| 2018-5-27|   |   | | :runner: x 10k | |
+| 2018-5-29|   |   | | :arrow_double_up: x 50 | |
+| 2018-5-31|   | :up: x 120   | | :arrow_down: x 100 | |
 
 
 
+
+
+### June 2018
+
+| Date       | Martin        | Junhong       |  Chen He       |Richard        | Xuanchuan |
+|-----------|---------------|---------------|---------------|---------------|---------------|
+| 2018-6-4|   | :runner: x 1k   | |  |  |
+| 2018-6-5|   |   | | :up: x 160  |  |
+| 2018-6-5|   |   | | :ferris_wheel: x 40  | :tennis: x 2h |
+| 2018-6-7|   |   | | :eight_spoked_asterisk: x 1  |  |
+| 2018-6-10|   |   | | |  :basket: x 1h |
+| 2018-6-11|   | :swimmer: x 1k   | | :up: x 150 |  |
+| 2018-6-12|   | | | :ferris_wheel: x 50 <br> :up: x 50 |  |
+| 2018-6-14|   | :up: x 120 <br> :seat: x 60 | |||
+| 2018-6-15|   | | | :eight_spoked_asterisk: x 1 ||
+| 2018-6-16|   | | | :runner: x 10k  ||
+| 2018-6-17| :swimmer: x 0.5h  | | |  ||
 
 
 

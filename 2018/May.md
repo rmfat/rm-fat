@@ -15,6 +15,12 @@
 | 2018-5-17|   |    | | :pray: x 45m | |
 | 2018-5-18|   |    | | :eight_spoked_asterisk: x 1 | |
 | 2018-5-20|   |    | | [:european_castle:](https://github.com/rmfat/rm-fat/blob/master/notes/richard/note-2018-5-20.md) <br> :runner: x 3k | |
+| 2018-5-23|   | :bike: x 8k   | | :arrow_down: x 100 | |
+| 2018-5-25|   |   | | :eight_spoked_asterisk: x 1 | |
+| 2018-5-26|   |   | | :up: x 200 | |
+| 2018-5-27|   |   | | :runner: x 10k | |
+| 2018-5-29|   |   | | :arrow_double_up: x 50 | |
+| 2018-5-31|   | :up: x 120   | | :arrow_down: x 100 | |
 
 
 
