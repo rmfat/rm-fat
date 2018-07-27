@@ -13,6 +13,7 @@
 #include "2018/April.md"
 #include "2018/May.md"
 #include "2018/June.md"
+#include "2018/July.md"
 
 
 #include "miscellaneous/tail.md"
