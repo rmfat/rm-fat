@@ -19,3 +19,8 @@
 | 2018-6-20|   | :bike: x 8k | | :up: x 150 ||
 | 2018-6-21|   | :up: x 100 | | :ferris_wheel: x 70 ||
 | 2018-6-23|   |  | :runner: x 4k |  ||
+| 2018-6-25|   |  |  | :up: x 300  ||
+| 2018-6-26| :up: x 80  |  |  |  ||
+| 2018-6-27|   |  |   | :up: x 130 <br> :ferris_wheel: x 30  ||
+| 2018-6-28|   |  | :runner: x 4k  |  ||
+| 2018-6-29|   |  |  | :arrow_down: x 60 <br> :up: x 40 <br> :ferris_wheel: x 50 ||
