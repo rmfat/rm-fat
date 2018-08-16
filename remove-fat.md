@@ -386,7 +386,7 @@
 | 2018-7-24|  | :swimmer: x 700  |  | ||
 | 2018-7-25|  |  |  | :up: x 250 <br> :top: x 25 ||
 | 2018-7-26|  |  |  | :ferris_wheel: x 70 ||
-| 2018-7-29|  |  | :football: x 2h  | :ferris_wheel: x 30 <br> :up: 120 | :basketball: x 2h |
+| 2018-7-29|  |  | :soccer: x 2h  | :ferris_wheel: x 30 <br> :up: 120 | :basketball: x 2h |
 | 2018-7-30|  |  |  | :ferris_wheel: x 100 | |
 
 
@@ -394,13 +394,14 @@
 
 | Date       | Martin   | Junhong       |  Chen He       |Richard   | Xuanchuan | Weibin |
 |-----------|---------------|---------------|---------------|---------------|---------------|---------------|
+| 2018-8-1|   | :swimmer: x 1k   | |  |  | |
 | 2018-8-3|   |    | | :arrow_down: x 80  |  | |
 | 2018-8-4|   |    | | :up: x 210  |  | |
 | 2018-8-8|   |    | | :up: x 200  |  | |
 | 2018-8-11|  :up: x 110 |    | |   |  | |
 | 2018-8-12|   |    | |  :up: x 80  |  | |
 | 2018-8-14|   |    | |  :arrow_double_up: x 50  |  | |
-| 2018-8-15|   |    | |  :runner: x 10k  |  | |
+| 2018-8-15|   |    | :runner: x 2k |  :runner: x 10k  |  | |
 
 
 

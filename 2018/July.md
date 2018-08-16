@@ -21,5 +21,5 @@
 | 2018-7-24|  | :swimmer: x 700  |  | ||
 | 2018-7-25|  |  |  | :up: x 250 <br> :top: x 25 ||
 | 2018-7-26|  |  |  | :ferris_wheel: x 70 ||
-| 2018-7-29|  |  | :football: x 2h  | :ferris_wheel: x 30 <br> :up: 120 | :basketball: x 2h |
+| 2018-7-29|  |  | :soccer: x 2h  | :ferris_wheel: x 30 <br> :up: 120 | :basketball: x 2h |
 | 2018-7-30|  |  |  | :ferris_wheel: x 100 | |
