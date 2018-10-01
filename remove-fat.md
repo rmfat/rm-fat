@@ -440,7 +440,7 @@
 | 2018-9-26|   |    |  | :arrow_double_up: x 50  |  | |
 | 2018-9-27|   | :swimmer: x 800m   |  | :bangbang: x 45  |  | |
 | 2018-9-28|   |    |  | :tennis: x 1.5h  |  | |
-| 2018-9-29|   |    | :football: x 2h <br> :up: x 80 <br> :arrow_double_up: x 20 |  |  | |
+| 2018-9-29|   |    | :soccer: x 2h <br> :up: x 80 <br> :arrow_double_up: x 20 |  |  | |
 | 2018-9-30|   |    |  | :runner: x 10k  |  | |
 
 
