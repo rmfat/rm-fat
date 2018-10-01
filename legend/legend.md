@@ -19,3 +19,4 @@
 | :fishing_pole_and_fish: | 拉绳 |  :eight_spoked_asterisk:| 8 mins abs workout LEVEL 3 |
 | :bangbang: | TRX | :ferris_wheel: | abs roller|
 | :baby_bottle: | activities with baby, like carrying him waling around|||
+| :hourglass_flowing_sand: | yoga |||
