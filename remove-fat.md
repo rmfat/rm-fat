@@ -402,7 +402,76 @@
 | 2018-8-12|   |    | |  :up: x 80  |  | |
 | 2018-8-14|   |    | |  :arrow_double_up: x 50  |  | |
 | 2018-8-15|   |    | :runner: x 2k |  :runner: x 10k  |  | |
+| 2018-8-16|   |    |  | :arrow_down: x 60   |  | |
+| 2018-8-18|   |    |  | :eight_spoked_asterisk: x 1   |  | |
+| 2018-8-20|   |    |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-8-23|   |  :up: x 100  |  | :bangbang: x 45  |  | |
+| 2018-8-24|   |    |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-8-25|   |    |  | :runner: x 10k  |  | |
+| 2018-8-26|   |    | :runner: x 4k <br> :eight: x 1 | :arrow_double_up: x 50  |  | |
+| 2018-8-27|   |    |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-8-28|   |   |  | :bangbang: x 45  |  | |
+| 2018-8-30|   |  :up: x 100  |  | :bangbang: x 45   |  | |
 
+
+
+### July 2018
+
+| Date       | Martin   | Junhong       |  Chen He       |Richard   | Xuanchuan | Weibin |
+|-----------|---------------|---------------|---------------|---------------|---------------|---------------|
+| 2018-9-3|   |  :up: x 100  |  | :arrow_down: x 100   |  | |
+| 2018-9-4|   |    |  | :bangbang: x 45   |  | |
+| 2018-9-5|   |    |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-9-6|   |    |  | :bangbang: x 45   |  | |
+| 2018-9-9|   |    |  | :runner: x 10k  |  | |
+| 2018-9-10|   | :bike: x 8k    |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-9-11|   |  :bike: x 8k  |  | :bangbang: x 45   |  | |
+| 2018-9-12|   | :swimmer: x 500m    |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-9-13|  :up: x 150 |    | |   | :basketball: x 2h  | |
+| 2018-9-14|   |    |  | :tennis: x 1h <br> :up: x 200  |  | |
+| 2018-9-15|  :up: x 50 <br> :arrow_down: x 100 <br> :baby_bottle: x 0.5h |    | |   |  | |
+| 2018-9-18|   |    |  | :bangbang: x 45   |  | |
+| 2018-9-19| :whale2: x 50  |    |  | :ferris_wheel: x 100   |  | |
+| 2018-9-20|   |    |  | :bangbang: x 45  |  | |
+| 2018-9-24| :up: x 100 <br> :arrow_down: x 100  |    |  |    |  | |
+| 2018-9-25|   |    |  | :bangbang: x 45  |  | |
+| 2018-9-26|   |    |  | :arrow_double_up: x 50  |  | |
+| 2018-9-27|   | :swimmer: x 800m   |  | :bangbang: x 45  |  | |
+| 2018-9-28|   |    |  | :tennis: x 1.5h  |  | |
+| 2018-9-29|   |    | :football: x 2h <br> :up: x 80 <br> :arrow_double_up: x 20 |  |  | |
+| 2018-9-30|   |    |  | :runner: x 10k  |  | |
+
+
+### October 2018
+
+| Date       | Martin   | Junhong       |  Chen He       |Richard   | Xuanchuan | Weibin |
+|-----------|---------------|---------------|---------------|---------------|---------------|---------------|
+
+<!---
+| 2018-9-3|   |  :up: x 100  |  | :arrow_down: x 100   |  | |
+| 2018-9-4|   |    |  | :bangbang: x 45   |  | |
+| 2018-9-5|   |    |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-9-6|   |    |  | :bangbang: x 45   |  | |
+| 2018-9-9|   |    |  | :runner: x 10k  |  | |
+| 2018-9-10|   | :bike: x 8k    |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-9-11|   |  :bike: x 8k  |  | :bangbang: x 45   |  | |
+| 2018-9-12|   | :swimmer: x 500m    |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-9-13|  :up: x 150 |    | |   | :basketball: x 2h  | |
+| 2018-9-14|   |    |  | :tennis: x 1h <br> :up: x 200  |  | |
+| 2018-9-15|  :up: x 50 <br> :arrow_down: x 100 <br> :baby_bottle: x 0.5h |    | |   |  | |
+| 2018-9-18|   |    |  | :bangbang: x 45   |  | |
+| 2018-9-19| :whale2: x 50  |    |  | :ferris_wheel: x 100   |  | |
+| 2018-9-20|   |    |  | :bangbang: x 45  |  | |
+| 2018-9-24| :up: x 100 <br> :arrow_down: x 100  |    |  |    |  | |
+| 2018-9-25|   |    |  | :bangbang: x 45  |  | |
+| 2018-9-26|   |    |  | :arrow_double_up: x 50  |  | |
+| 2018-9-27|   | :swimmer: x 800m   |  | :bangbang: x 45  |  | |
+| 2018-9-28|   |    |  | :tennis: x 1.5h  |  | |
+| 2018-9-29|   |    | :football: x 2h <br> :up: x 80 <br> :arrow_double_up: x 20 |  |  | |
+| 2018-9-30|   |    |  | :runner: x 10k  |  | |
+--->
+
+[//]: <> (comment?)
 
 
 
