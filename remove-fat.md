@@ -449,6 +449,15 @@
 
 | Date       | Martin   | Junhong       |  Chen He       |Richard   | Xuanchuan | Weibin |
 |-----------|---------------|---------------|---------------|---------------|---------------|---------------|
+| 2018-10-1|   |     |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-10-2|   |    |  | :bangbang: x 45   |  | |
+| 2018-10-3|   |     |  | :hourglass_flowing_sand: x 45  |  | |
+| 2018-10-4| :runner: x 3k   |    |  | :bangbang: x 45   |  | |
+| 2018-10-5| :arrow_down: x 100   |    |  |  |  | |
+| 2018-10-8|   | :swimmer: x 1k    |  | :arrow_down: x 100 |  | |
+| 2018-10-10|   |     |  | :runner: x 10k |  | |
+| 2018-10-11|   |     |  | :runner: x 5k |  | |
+| 2018-10-12|   |     |  | :runner: x 5k |  | |
 
 <!---
 | 2018-9-3|   |  :up: x 100  |  | :arrow_down: x 100   |  | |
