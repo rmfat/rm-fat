@@ -19,7 +19,7 @@
 | 2018-10-17|   |     |  | :runner: x 5k <br> :arrow_double_up: x 20 |  | |
 | 2018-10-19|   |     |  | :tennis: x 1.5h  |  | |
 | 2018-10-20|   |     |  | :runner: x 10k |  | |
-| 2018-10-21| :arrow_down: x 50   |     |  | runner: x 10k  |  | |
+| 2018-10-21| :arrow_down: x 50   |     |  | :runner: x 10k  |  | |
 | 2018-10-22|   |     |  | :runner: x 10k |  | |
 | 2018-10-23|   |     |  | :runner: x 10k |  | |
 | 2018-10-24|   |     |  | :runner: x 10k |  | |

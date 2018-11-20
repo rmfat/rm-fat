@@ -465,7 +465,7 @@
 | 2018-10-17|   |     |  | :runner: x 5k <br> :arrow_double_up: x 20 |  | |
 | 2018-10-19|   |     |  | :tennis: x 1.5h  |  | |
 | 2018-10-20|   |     |  | :runner: x 10k |  | |
-| 2018-10-21| :arrow_down: x 50   |     |  | runner: x 10k  |  | |
+| 2018-10-21| :arrow_down: x 50   |     |  | :runner: x 10k  |  | |
 | 2018-10-22|   |     |  | :runner: x 10k |  | |
 | 2018-10-23|   |     |  | :runner: x 10k |  | |
 | 2018-10-24|   |     |  | :runner: x 10k |  | |
@@ -507,8 +507,7 @@
 | Date       | Martin   | Junhong       |  Chen He       |Richard   | Xuanchuan | Weibin |
 |-----------|---------------|---------------|---------------|---------------|---------------|---------------|
 | 2018-11-1|  :arrow_down: x 100  |     |  | :bangbang: x 45min  |  | |
-| 2018-11-2| :basketball: x 1h  |    |  |    :hourglass_flowing_sand: x 45 <br>
-:tennis: x 1.5h  |  | |
+| 2018-11-2| :basketball: x 1h  |    |  |    :hourglass_flowing_sand: x 45 <br> :tennis: x 1.5h  |  | |
 | 2018-11-3|   |     |  | :runner: x 10k |  | |
 | 2018-11-4|   |     |  | :runner: x 10k |  | |
 | 2018-11-4|   :arrow_down: x 100   |     |  | |  | |
