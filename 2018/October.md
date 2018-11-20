@@ -15,7 +15,7 @@
 | 2018-10-13|   |     |  | :runner: x 5k |  | |
 | 2018-10-14|   |     |  | :runner: x 10k |  | |
 | 2018-10-15|   |     |  | :runner: x 10k |  | |
-| 2018-10-16|   |     |  |  :bangbang: x 45 |  | :basketball: x 2h |
+| 2018-10-16|   |     |  |  :bangbang: x 45 | :basketball: x 2h  |  |
 | 2018-10-17|   |     |  | :runner: x 5k <br> :arrow_double_up: x 20 |  | |
 | 2018-10-19|   |     |  | :tennis: x 1.5h  |  | |
 | 2018-10-20|   |     |  | :runner: x 10k |  | |
