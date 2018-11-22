@@ -21,4 +21,4 @@
 | 2018-11-18|   |     |  | :runner: x 10k |  ||
 | 2018-11-19|   |     |  | :runner: x 10k |  ||
 | 2018-11-20|   | :up: x 100    |  | :bangbang: x 45min |  | :dancer: x 1h|
-
+| 2018-11-21|   |    |  | :hourglass_flowing_sand: x 45min <br>  :runner: x 10k |  | :european_castle: x 1h|
