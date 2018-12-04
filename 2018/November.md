@@ -22,3 +22,9 @@
 | 2018-11-19|   |     |  | :runner: x 10k |  ||
 | 2018-11-20|   | :up: x 100    |  | :bangbang: x 45min |  | :dancer: x 1h|
 | 2018-11-21|   |    |  | :hourglass_flowing_sand: x 45min <br>  :runner: x 10k |  | :european_castle: x 1h|
+| 2018-11-24|   |    |  | :runner: x 10k  |  | :tennis: x 2h|
+| 2018-11-25|   |    |  | :runner: x 10k  |  | |
+| 2018-11-27|   |    |  | :ferris_wheel: x 100  |  | :european_castle: x 30min |
+| 2018-11-28|   |    |  | :runner: x 10k  |  | :dancer: x 1h |
+| 2018-11-29|   |     |  | :bangbang: x 45min |  ||
+| 2018-11-30| :runner: x 5k <br> :seven: x 1   | | | :tennis: x 1.5h  | | :mount_fuji: x 3h  |
