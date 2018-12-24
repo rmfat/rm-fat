@@ -20,3 +20,5 @@
 | :bangbang: | TRX | :ferris_wheel: | abs roller|
 | :baby_bottle: | activities with baby, like carrying him waling around|||
 | :hourglass_flowing_sand: | yoga | :dancer: | 莱美热舞 |
+| :punch: | boxing | :ab: | abs ripper|
+| :pisces: | HIIT |||
