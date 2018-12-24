@@ -535,7 +535,7 @@
 | 2018-11-30| :runner: x 5k <br> :seven: x 1   | | | :tennis: x 1.5h  | | :mount_fuji: x 3h  |
 
 
-### November 2018
+### December 2018
 
 | Date       | Martin   | Junhong       |  Chen He       |Richard   | Xuanchuan | Thomas |
 |-----------|---------------|---------------|---------------|---------------|---------------|---------------|
